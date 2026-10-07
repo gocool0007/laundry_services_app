@@ -1,5 +1,5 @@
 name: laundry_services_app
-description: A Flutter demo app for a garment services and partner workflow platform.
+description: A Flutter laundry services app with Firebase authentication and Firestore integration.
 publish_to: 'none'
 version: 1.0.0+1
 
