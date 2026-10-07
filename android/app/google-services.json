@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "474512871451",
+    "project_id": "freshpress-62a3c",
+    "storage_bucket": "freshpress-62a3c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474512871451:android:eb1580f678494523b7e8be",
+        "android_client_info": {
+          "package_name": "com.freshpress.laundry"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYijj51ANau3DfIOxi_hU1YiZ9AMiP9iQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
