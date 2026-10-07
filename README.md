@@ -1,22 +1,25 @@
-# laundry_services_app
+# FreshPress Laundry App
 
-A demo Flutter mobile app for a garment services platform with screens for services, orders, partner workflows, scanner, and profile.
-
-## Run locally
-
-1. Install Flutter SDK.
-2. Run:
-   ```bash
-   flutter pub get
-   flutter run
-   ```
-
-## Features included
-
+A Flutter demo application for FreshPress with a laundry and ironing workflow including:
 - Home dashboard
-- Services and pricing categories
-- Order tracking and details
-- Partner tasks and execution flow
+- Services and adjustable pricing
+- Orders and order details
+- Profile and payouts
+- Partner tasks and garment processing
 - Barcode / QR scanner placeholder
-- Profile and earnings overview
-- Demo data with mock cards and states
+- Seal confirmation success flow
+
+## Requirements
+
+- Flutter SDK 3.3+
+
+## Run
+
+```bash
+flutter pub get
+flutter run
+```
+
+## Firebase note
+
+This starter app is structured for Firebase email/password auth and Firestore integration. Use your own Firebase project and generate `firebase_options.dart` before enabling the backend layer.
